@@ -1,0 +1,32 @@
+
+.box{
+     height: 200px;
+     width: 200px;
+     border: 3px solid black;
+     border-radius: 10px;
+     margin: auto;
+     /* padding-bottom: 10px; */
+    /* background-color: brown; */
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+    border: 5px dotted orange;
+    border-radius: 20px;
+    margin:auto;
+}
+
+.text{
+    margin-top: 85px;
+    margin-left: 85px;
+    /* padding-left: 10px; */
+}
+
+.text2{
+    margin-top: 135px;
+    margin-left: 125px;
+}
+.header{
+    margin: auto;
+}

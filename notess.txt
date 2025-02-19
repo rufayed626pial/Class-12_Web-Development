@@ -1,0 +1,4 @@
+<div> tag = division .
+
+margin = take space outside from the box
+padding = take space inside of the box
